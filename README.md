@@ -17,10 +17,14 @@ Welcome to the Coffee Website! This is a simple, responsive, and visually engagi
 - CSS3
 - JavaScript (Vanilla)
 
+## 🖼️ Live Demo
+
+Coming soon — You can host it using GitHub Pages or Netlify.
+
 ## 🚀 Getting Started
 
 To run the website locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/coffee-website.git
+   git clone https://github.com/varshasri-02/coffee-website.git
